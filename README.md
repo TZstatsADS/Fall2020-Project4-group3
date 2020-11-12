@@ -5,7 +5,7 @@
 Term: Fall 2020
 
 + Team 3
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Causal Inference
 + Team members
 	+ Han, Xiangning xh2443@columbia.edu
 	+ Shin, Charles cds2191@columbia.edu
