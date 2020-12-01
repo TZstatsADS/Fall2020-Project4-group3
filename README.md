@@ -5,7 +5,7 @@
 Term: Fall 2020
 
 + Team 3
-+ Projec title: Applying Causal Inference on Clinical Trial Data
++ Projec title: Causal Inference on Treatment Datasets
 + Team members
 	+ Han, Xiangning xh2443@columbia.edu
 	+ Shin, Charles cds2191@columbia.edu
@@ -15,7 +15,7 @@ Term: Fall 2020
 	
 	
 	
-+ Project summary: Implement, evaluate and, compare performance and computational efficiency of three algorithms form the causal inference literature on treatment data (i.e. low dimensional and high dimensional datasets). The algorithms implemented were stratification, regression adjustment and, weighted regression together with L2 penalized logistic regression as the propensity score estimation method. ATE estimation and run time were used to evaluate and compare the efficiency of the causal inference algorithms.
++ Project summary: Implement, evaluate and, compare performance and computational efficiency of three algorithms form the causal inference literature on treatment datasets (i.e. low dimensional and high dimensional datasets). The algorithms implemented were stratification, regression adjustment and, weighted regression together with L2 penalized logistic regression as the propensity score estimation method. ATE estimation and run time were used to evaluate and compare the efficiency of the causal inference algorithms.
 
 	
 **Contribution statement**:  
