@@ -15,15 +15,15 @@ Term: Fall 2020
 	
 	
 	
-+ Project summary: Implement, evaluate and, compare performance and computational efficiency of three algorithms form the causal inference literature on treatment datasets (i.e. low dimensional and high dimensional datasets). The algorithms implemented were stratification, regression adjustment and, weighted regression together with L2 penalized logistic regression as the propensity score estimation method. ATE estimation and run time were used to evaluate and compare the efficiency of the causal inference algorithms.
++ Project summary: Implement, evaluate and, compare performance and computational efficiency of the three algorithms from the causal inference literature on treatment datasets (i.e. low dimensional and high dimensional datasets). The algorithms implemented were stratification, regression adjustment and, weighted regression together with L2 penalized logistic regression as the propensity score estimation method. ATE estimation and run time were used to evaluate and compare the efficiency of the causal inference algorithms.
 
 	
 + Contribution statement: 
 	+ Han, Xiangning: Created and presented the project, Finalized Read me, edited main for perspective algorithm
-	+ Shin, Charles: Weighted Regression, edited PPT, Finalized Read me, edited main for perspective algorithm
+	+ Shin, Charles: Regression Adjustment, edited PPT, Finalized Read me, edited main for perspective algorithm
 	+ Swati, Sneha: Cross validation (tries), Stratification, created the main, Edited PPT, Edited Read me
-	+ Wang, Shuyuan: L2 regression, cross validation (tries), created the mian, Edited PPT, Finalized Read me
-	+ Zhang, Minzhi: Stratification, Edited PPT, Finalized Read me, edited main for perspective algorithm
+	+ Wang, Shuyuan: Weighted Regression, L2 regression, cross validation (tries), created the mian, Edited PPT, Finalized Read me
+	+ Zhang, Minzhi: Stratification (one used), Edited PPT, Finalized Read me, edited main for perspective algorithm
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
