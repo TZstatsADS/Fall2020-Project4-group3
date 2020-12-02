@@ -19,11 +19,11 @@ Term: Fall 2020
 
 	
 + Contribution statement: 
-	+ Han, Xiangning: Created and presented the project, Finalized Read me, edited main for perspective algorithm
-	+ Shin, Charles: Regression Adjustment, edited PPT, Finalized Read me, edited main for perspective algorithm
-	+ Swati, Sneha: Cross validation (tries), Stratification, created the main, Edited PPT, Edited Read me
-	+ Wang, Shuyuan: Weighted Regression, L2 regression, cross validation (tries), created the mian, Edited PPT, Finalized Read me
-	+ Zhang, Minzhi: Stratification (one used), Edited PPT, Finalized Read me, edited main for perspective algorithm
+	+ Han, Xiangning: Created and presented the project, Finalized README, Edited main for perspective algorithm
+	+ Shin, Charles: Regression Adjustment, Edited PPT, Finalized README, Edited main for perspective algorithm
+	+ Swati, Sneha: Cross validation (tries), Stratification, Created the main, Edited PPT, Edited README, Finalized main
+	+ Wang, Shuyuan: Weighted Regression, L2 penalized logistic regression, Cross validation (tries), Created the main and evaluation measure, Edited PPT, Finalized README
+	+ Zhang, Minzhi: L2 penalized logistic regression, Stratification (one used), Edited PPT, Finalized README, Edited main for perspective algorithm
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
